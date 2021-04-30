@@ -6,4 +6,4 @@ App React Native com Expo consulta de endereço por CEP
 -VS Code
 # Como executar o projeto
 -Entre na pasta raiz do projeto
--Execute o comando "npm start"
+Execute o comando "npm start"
