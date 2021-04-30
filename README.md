@@ -8,5 +8,5 @@ App React Native com Expo consulta de endereço por CEP
 Entre na pasta raiz do projeto
 execute o comando "npm start"
 # PROJETO INTEGRADOR: DESENVOLVIMENTO DE APP
-Professor: Sérgio Peluzzi
-Acadêmico: Fabrício Cabral Machado
+*Professor: Sérgio Peluzzi
+*Acadêmico: Fabrício Cabral Machado
