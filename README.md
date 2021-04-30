@@ -6,7 +6,7 @@
 - VS Code
 # Como executar o projeto
 - Entre na pasta raiz do projeto
-- execute o comando "npm start"
+- Execute o comando "npm start"
 # Projeto Integrador: Desenvolvimento de app /5° Período ADS.
 - Professor: Sérgio Peluzzi
 - Acadêmico: Fabrício Cabral Machado
