@@ -1,6 +1,6 @@
 # PROJETO INTEGRADOR: DESENVOLVIMENTO DE APP / Busca-CEP 
 App React Native com Expo consulta de endereço por CEP
-# Requimentos:
+# Requerimentos:
 -Node.js (https://nodejs.org)
 -Expo cli (npm i -g expo-cli)
 -VS Code
