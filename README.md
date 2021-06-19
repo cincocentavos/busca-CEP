@@ -9,4 +9,4 @@
 - Execute o comando "npm start"
 # Projeto Integrador: Desenvolvimento de app /5° Período ADS.
 - Professor: Sérgio Peluzzi
-- Acadêmico: Fabrício Cabral Machado
+- Acadêmicos: Fabrício Cabral Machado, Victor Sena, Gabriel Santos da Silva, Douglas Antunes da Silva
